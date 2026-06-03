@@ -252,7 +252,7 @@ The TNMT Sales Dashboard provides a centralized view of retail performance metri
 
 ### TNMT Sales Dashboard
 
-![TNMT Sales Dashboard](TNMT_Sales Dashboard.png)
+![TNMT Sales Dashboard](TNMT_Sales_Dashboard.png)
 
 *Interactive sales dashboard showing revenue trends, product category performance, sales team analysis, and state-level revenue insights.*
 
